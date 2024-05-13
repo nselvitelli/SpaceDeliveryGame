@@ -1,0 +1,8 @@
+*.DS_Store
+*.idea/
+*.vscode/
+*prog
+*prog.dSYM
+*.blend
+*project
+*project.dSYM
